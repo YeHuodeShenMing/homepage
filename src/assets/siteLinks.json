@@ -15,17 +15,17 @@
     "link": "https://dianping.yehuodeshenming.site/"
   },
     {
-    "icon": "Compass",
+    "icon": "HospitalRegular",
     "name": "医疗助手",
     "link": "https://llm.yehuodeshenming.site/"
   },
   {
-    "icon": "CompactDisc",
+    "icon": "AddressCardRegular",
     "name": "人脸识别",
     "link": "https://facerecog.yehuodeshenming.site/"
   },
     {
-    "icon": "CompactDisc",
+    "icon": "Robot",
     "name": "机器人导航定位",
     "link": "https://slam.yehuodeshenming.site/"
   },

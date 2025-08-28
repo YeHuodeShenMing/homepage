@@ -1,37 +1,37 @@
 [
   {
+    "icon": "Car",
+    "name": "苍穹外卖",
+    "link": "https://takeout.yehuodeshenming.site/"
+  },
+  {
     "icon": "Blog",
-    "name": "博客",
-    "link": "https://blog.imsyy.top/"
+    "name": "头条-微服务",
+    "link": "https://leadnews.yehuodeshenming.site/"
   },
   {
     "icon": "Cloud",
-    "name": "网盘",
-    "link": "https://pan.imsyy.top/"
+    "name": "点评-Redis",
+    "link": "https://dianping.yehuodeshenming.site/"
+  },
+    {
+    "icon": "Compass",
+    "name": "医疗助手",
+    "link": "https://llm.yehuodeshenming.site/"
   },
   {
     "icon": "CompactDisc",
-    "name": "音乐",
-    "link": "https://music.imsyy.top/"
+    "name": "人脸识别",
+    "link": "https://facerecog.yehuodeshenming.site/"
   },
-  {
-    "icon": "Compass",
-    "name": "起始页",
-    "link": "https://nav.imsyy.top/"
-  },
-  {
-    "icon": "Car",
-    "name": "苍穹外卖",
-    "link": "www.yehuodeshenming.site:8080/"
+    {
+    "icon": "CompactDisc",
+    "name": "机器人导航定位",
+    "link": "https://slam.yehuodeshenming.site/"
   },
   {
     "icon": "Fire",
     "name": "今日热榜",
     "link": "https://hot.imsyy.top/"
-  },
-  {
-    "icon": "LaptopCode",
-    "name": "站点监测",
-    "link": "https://status.imsyy.top/"
   }
 ]

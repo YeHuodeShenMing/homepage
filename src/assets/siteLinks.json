@@ -2,22 +2,22 @@
   {
     "icon": "Car",
     "name": "苍穹外卖",
-    "link": "https://takeout.yehuodeshenming.site/"
+    "link": "https://github.com/YeHuodeShenMing/sky_take_out"
   },
   {
     "icon": "Blog",
     "name": "头条-微服务",
-    "link": "https://leadnews.yehuodeshenming.site/"
+    "link": "https://github.com/YeHuodeShenMing/leadnews"
   },
   {
     "icon": "Cloud",
-    "name": "点评-Redis",
-    "link": "https://dianping.yehuodeshenming.site/"
+    "name": "CS144",
+    "link": "https://github.com/YeHuodeShenMing/CS144_minnow"
   },
     {
     "icon": "HospitalRegular",
     "name": "医疗助手",
-    "link": "https://llm.yehuodeshenming.site/"
+    "link": "https://github.com/YeHuodeShenMing/xiaozhiHospitalAssistant"
   },
   {
     "icon": "AddressCardRegular",
